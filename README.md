@@ -32,7 +32,7 @@ To start the application:
 
 2. Run the Streamlit application:
 ```bash
-streamlit run app.py
+streamlit run celebritySearch.py
 ```
 
 
